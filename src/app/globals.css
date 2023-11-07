@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* font google */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Gurajada&family=Homemade+Apple&family=Marck+Script&family=Outfit:wght@500&family=Poppins:wght@100;400;500;600&family=Quicksand:wght@500;700&family=Work+Sans:wght@100;400;600;700&display=swap');
+
+*{
+  padding: 0;
+  margin: 0;
+  font-family: 'Quicksand', sans-serif;
+  transition: 0.3s ;
+}
+
+.body{
+  color: #3f4c52;
+}
+
+.line{
+  border-bottom: 2px dashed #3f4c52;
+}
+
+.active{
+  background-color: #81ecec;
+}

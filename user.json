@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "name": "Andi Karna",
+      "email": "karnaandi00@gmail.com",
+      "gender": "male",
+      "id": 1
+    },
+    {
+      "name": "Nova Indah Damayanti",
+      "email": "vanovid.17@gmail.com",
+      "gender": "female",
+      "id": 2
+    },
+    {
+      "name": "Ahmad Fauzi",
+      "email": "Fauzi@gmail.com",
+      "gender": "male",
+      "id": 3
+    }
+  ],
+  "comment": []
+}
